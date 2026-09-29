@@ -1,0 +1,134 @@
+{
+  "visual": {
+    "navbar": {
+      "links": [
+        {
+          "label": "About",
+          "path": "#about"
+        },
+        {
+          "label": "Projects",
+          "path": "#projects"
+        },
+        {
+          "label": "Education",
+          "path": "#education"
+        },
+        {
+          "label": "Skills",
+          "path": "#skills"
+        }
+      ]
+    },
+    "home": {
+      "sections": {
+        "banner": true,
+        "experience": true,
+        "project": true,
+        "education": true,
+        "testimonial": false
+      }
+    }
+  },
+  "personalInfo": {
+    "name": "De Los Reyes AJ Kurt A.",
+    "title": "IT Student / Aspiring Web Developer",
+    "location": "Philippines",
+    "bio": "I am an Information Technology student interested in web development, software development, and information systems. I enjoy learning new technologies and developing practical solutions to real-world problems.",
+    "about": "I am a motivated and hardworking IT student who is continuously improving my technical and problem-solving skills. I am interested in creating user-friendly applications and systems that can make everyday tasks more efficient. I also enjoy working on academic projects that allow me to apply what I have learned in programming, databases, and system development.",
+    "careerGoal": "To develop my skills as an IT professional and gain experience in creating reliable, user-friendly, and efficient software solutions."
+  },
+  "contactInfo": {
+    "email": "ajal.delosreyes.ui@phinmaed.com",
+    "phone": "09382050634",
+    "github": "https://github.com/anjeqyl321",
+    "website": "#!"
+  },
+  "skills": {
+    "languages": [
+      "HTML & CSS",
+      "JavaScript",
+      "Python"
+    ],
+    "frameworks": [
+      "Flask",
+      "Web Development",
+      "UI/UX Design"
+    ],
+    "databases": [
+      "MySQL",
+      "Database Management"
+    ],
+    "tools": [
+      "Problem Solving",
+      "Teamwork",
+      "Communication"
+    ]
+  },
+  "services": [
+    { "title": "Website Development", "description": "Responsive websites built around clear content and practical user needs." },
+    { "title": "Web Application Development", "description": "Functional web applications for academic, personal, and small business use." },
+    { "title": "Basic UI/UX Design", "description": "Simple, user-friendly interfaces with an emphasis on clarity and ease of use." },
+    { "title": "Database Design", "description": "Organized data structures and basic database solutions for information systems." },
+    { "title": "System Development", "description": "Support for planning and developing software systems from idea to implementation." },
+    { "title": "Website Maintenance", "description": "Ongoing updates and improvements to keep websites useful and reliable." }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Check-in and Billing with POS Integration",
+      "description": "A smart operation system for IdeaHub Co-Working Space + Café. It manages customer check-ins and check-outs, time-based billing, café orders, and transaction records to improve billing accuracy and daily operations.",
+      "technologies": [
+        "Web Development",
+        "Database Management",
+        "System Development"
+      ],
+      "live_url": "#!",
+      "code_repo_url": "#!"
+    },
+    {
+      "id": "2",
+      "title": "Flask Web Application",
+      "description": "A simple web application built with Python and Flask to practice API development, data handling, routing, and core web application fundamentals.",
+      "technologies": [
+        "Python",
+        "Flask",
+        "API Development"
+      ],
+      "live_url": "#!",
+      "code_repo_url": "#!"
+    }
+  ],
+  "workExperience": [
+    {
+      "id": "1",
+      "company": "Academic Projects",
+      "companyWebsite": "#!",
+      "role": "Student / Academic Projects",
+      "startDate": "Present",
+      "endDate": "Present",
+      "technologies": [
+        "Programming",
+        "Databases",
+        "System Design"
+      ],
+      "keyResponsibilities": [
+        "Developed and designed web-based applications for school projects.",
+        "Practiced programming and database management.",
+        "Worked with system design and user interface development.",
+        "Participated in group projects involving software and information systems."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": "1",
+      "institution": "Phinma University Of Iloilo",
+      "degree": "Bachelor of Science in Information Technology",
+      "description": "Building a foundation in programming, databases, system development, and information technology through academic coursework and practical projects.",
+      "startDate": "2026",
+      "endDate": "2027"
+    }
+  ],
+  "testimonials": []
+}
